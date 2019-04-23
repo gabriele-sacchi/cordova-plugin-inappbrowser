@@ -22,7 +22,7 @@
            id="cordova-plugin-inappbrowserfork"
       version="3.1.1-baddev">
 
-    <name>InAppBrowser</name>
+    <name>InAppBrowserfork</name>
     <description>Cordova InAppBrowser Plugin</description>
     <license>Apache 2.0</license>
 
