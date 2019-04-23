@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-inappbrowserfork",
-  "version": "3.1.1-baddev",
+  "version": "3.1.2-baddev",
   "description": "Fork of Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
